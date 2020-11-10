@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152028050026",
+    "firebase_url": "https://where-is-my-pet-66a47.firebaseio.com",
+    "project_id": "where-is-my-pet-66a47",
+    "storage_bucket": "where-is-my-pet-66a47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152028050026:android:6be276b12089a039f91013",
+        "android_client_info": {
+          "package_name": "com.lanca.where_is_my_pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152028050026-mhm4nrbjrsu0g722blverhp00gnvnoi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lanca.where_is_my_pet",
+            "certificate_hash": "d627ce3db2e7ab632ee022286ca973eb9f1c2953"
+          }
+        },
+        {
+          "client_id": "152028050026-4jea6ldptfdlug1jhpm45adhj080sc6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgC8POVJ6XWODWO3LwgVR6rQzg_499pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152028050026-4jea6ldptfdlug1jhpm45adhj080sc6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
